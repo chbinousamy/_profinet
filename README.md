@@ -9,8 +9,8 @@ Profinet device stack for embedded systems
 - Continuous integration: [https://github.com/rtlabs-com/p-net/actions](https://github.com/rtlabs-com/p-net/actions)
 - RT-Labs (stack integration, certification services and training): [https://rt-labs.com](https://rt-labs.com)
 
-[![Build Status](https://github.com/rtlabs-com/p-net/workflows/Build/badge.svg?branch=master)](https://github.com/rtlabs-com/p-net/actions?workflow=Build)
-[![CodeQL](https://github.com/rtlabs-com/p-net/workflows/CodeQL/badge.svg?branch=master)](https://github.com/rtlabs-com/p-net/actions?workflow=CodeQL)
+[![Build Status](https://github.com/chbinousamy/p-net/workflows/Build/badge.svg?branch=master)](https://github.com/chbinousamy/p-net/actions?workflow=Build)
+[![CodeQL](https://github.com/chbinousamy/p-net/workflows/CodeQL/badge.svg?branch=master)](https://github.com/chbinousamy/p-net/actions?workflow=CodeQL)
 
 ## Key features
 
